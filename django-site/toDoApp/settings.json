@@ -1,0 +1,23 @@
+{
+    // Place your settings here
+    // You can add custom settings and override default ones
+    // For more information, visit: https://code.visualstudio.com/docs/getstarted/settings
+
+    // Editor settings
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "on",
+
+    // Language specific settings
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+
+    // Extensions settings
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+
+    // Other settings
+    "workbench.colorTheme": "Default Dark+"
+}
