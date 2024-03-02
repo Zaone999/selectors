@@ -1,2 +1,2 @@
 # playground
-A repository where I showcase my newly acquired skills and knowledge through small projects.
+A mono repository where I showcase my newly acquired skills and knowledge through small projects.
