@@ -40,8 +40,3 @@ This project is a multi-client chat server and client implemented in Python. It 
 1. Start the server by running `python multi-server.py`.
 2. In separate terminal windows, start each client by running `python multi-client.py`.
 3. Use the provided commands (`info`, `send [username] message`, `echo message`) to interact within the chat.
-
-## License
-This project is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-*Note: Contributions and suggestions for improvements are highly welcome. If you encounter a bug, have a solution, or a feature request, please feel free to open an issue or submit a pull request on the project repository.*
